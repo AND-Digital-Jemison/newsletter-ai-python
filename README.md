@@ -15,11 +15,13 @@ source venv/bin/activate
 ```
 > activate the virtual environment (Linux/Mac)
 
-```venv\Scripts\activate
+```v
+env\Scripts\activate
 ```
 > activate the virtual environment (Windows)
 
-```pip install -r requirements.txt
+```
+pip install -r requirements.txt
 ```
 > install the required packages
 
